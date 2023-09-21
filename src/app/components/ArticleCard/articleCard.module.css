@@ -1,0 +1,23 @@
+.articleCard {
+    border: 2px solid darkred;
+    border-radius: 10px;
+    background-color: rgb(238, 170, 170);
+    margin: 5px;
+    padding: 5px;
+    max-width: fit-content;
+    display: flex;
+}
+
+.articleContent{
+    color: darkred;
+    font-family: sans-serif;
+}
+
+.articleImage {
+    max-width: 250px;
+    padding: 20px;
+}
+.articleImage img{
+    height: auto;
+    width: 100%;
+}
