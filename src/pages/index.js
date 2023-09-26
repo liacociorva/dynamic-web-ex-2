@@ -20,7 +20,7 @@ export default function Home() {
         date = {new Date (article.publishedDate).toDateString()} 
         imageSrc = {article.image.url} 
         imageAlt={article.image.alt} 
-        link='Learn more'
+        id = {article.id}
         />
       ))}
     </main>

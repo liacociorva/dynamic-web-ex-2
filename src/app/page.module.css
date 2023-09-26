@@ -8,3 +8,11 @@
   font-family: sans-serif;
   color: darkred;
 }
+
+.articleContent {
+  color: darkred;
+  background-color: rgb(238, 170, 170);
+  max-width: fit-content; 
+  padding: 10px;
+}
+
