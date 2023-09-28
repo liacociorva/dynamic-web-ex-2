@@ -5,7 +5,7 @@ import styles from "../app/page.module.css";
 import ArticleCard from '../app/components/ArticleCard';
 
 export default function Home() {
-  const projectName = "I Love Articles!!";
+  const projectName = "Fruity Articles";
   
 
   return (

@@ -26,7 +26,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://healthyfamilyproject.com/wp-content/uploads/2020/05/Peaches-background.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 04 2019 17:04:38 GMT-0400"
@@ -58,7 +58,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://images.everydayhealth.com/images/diet-nutrition/all-about-bananas-nutrition-facts-health-benefits-recipes-and-more-rm-722x406.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 05 2019 10:04:38 GMT-0400"
@@ -90,7 +90,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/09/kiwi-1296x728-header.jpg?w=1155&h=1528",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 06 2019 18:04:38 GMT-0400"
@@ -122,7 +122,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/blueberries-1296x728-feature.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 08 2019 12:04:38 GMT-0400"
@@ -154,7 +154,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://www.tastingtable.com/img/gallery/31-types-of-lemons-and-what-makes-them-unique/l-intro-1656086555.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 10 2019 12:04:38 GMT-0400"
@@ -194,7 +194,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://healthyfamilyproject.com/wp-content/uploads/2020/05/Strawberries-background.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 22 2019 17:04:38 GMT-0400"
